@@ -49,8 +49,6 @@ The dashboard allows users to explore:
 
 ## Dashboard
 
-![Water Consumption Dashboard](dashboard_screenshot.png)
-
 The dashboard is designed to allow users to move from a high-level regional overview into more detailed comparisons of municipalities, years, and water sources.
 
 ### Core Analysis
@@ -98,7 +96,8 @@ Rather than simply presenting individual datasets, the project establishes a wor
 
 The resulting dashboard provides a foundation that can be expanded for future INSTO reporting.
 
-## About the Project
+## Contact
+alexisdsamp@gmail.com
 
 This project was developed by **Alexis Samp** as part of a INSTO reporting initiative with the **Thompson Okanagan Tourism Association (TOTA)**.
 
